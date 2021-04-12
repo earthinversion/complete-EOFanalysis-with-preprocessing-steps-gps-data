@@ -1,0 +1,5 @@
+###################### check_data_length.py ########################
+EOF analysis for the time series between 2015-08-07 06:28:47.999999 & 2017-02-05 18:28:47.999999
+Meinong EQ: 2016-02-05 20:49:55.199999
+Total number of stations to begin with: 0
+Number of stations selected: 0 
